@@ -9,4 +9,6 @@ Now run the MSAS.exe you can skip the first 5 second message if you want to
 after the message is gone Wait for the server to install
 and you are finished installing MSAS.
 
+after you finish you can just open MSAS and the server will start without problems.
+
 be sure to use /stop to safely stop the server.
