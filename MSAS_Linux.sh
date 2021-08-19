@@ -8,7 +8,6 @@ echo			MSAS_Linux Menu Coming soon
 echo	   To Check For Updates goto the MSAS Github releases.
 echo		  github.com/ThexGameLord/MSAS/releases
 echo
-ifconfig -a
 sleep 5
 clear
 echo Loading Please Wait as the server has to check the eula.txt
