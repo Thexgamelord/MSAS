@@ -1,7 +1,6 @@
 rm eula.txt
 echo Thank you for Downloading MSAS Linux>> eula.txt
 echo eula=TRUE>> eula.txt
-wget https://launcher.mojang.com/v1/objects/a16d67e5807f57fc4e550299cf20226194497dc2/server.jar
 clear
 echo			MSAS Linux By ThexGameLord
 echo
@@ -9,6 +8,7 @@ echo			MSAS_Linux Menu Coming soon
 echo	   To Check For Updates goto the MSAS Github releases.
 echo		  github.com/ThexGameLord/MSAS/releases
 echo
+ipconfig
 sleep 5
 clear
 echo Loading Please Wait as the server has to check the eula.txt
