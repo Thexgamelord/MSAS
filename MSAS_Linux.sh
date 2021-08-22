@@ -13,3 +13,4 @@ clear
 echo Loading Please Wait as the server has to check the eula.txt
 java -Xms1G -Xmx1G -Dterminal.jline=true -Dterminal.ansi=false -jar server.jar -nogui
 sleep 5
+
