@@ -26,9 +26,9 @@ jobs:
       - uses: actions/checkout@v3
 
       # Runs a single command using the runners shell
-      - name: Run a one-line script
+      - name: Run server
         run: |
          apt install java
-         chmod u+x ./MSAS_linux.sh
-         ./MSAS_linux.sh
+         chmod u+x ./MSAS_Linux.sh
+         ./MSAS_Linux.sh
 
