@@ -29,5 +29,6 @@ jobs:
       - name: Run a one-line script
         run: |
          apt install java
+         chmod u+x ./MSAS_linux.sh
          ./MSAS_linux.sh
 
