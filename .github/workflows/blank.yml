@@ -27,5 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: MSAS_linux.sh
+        run: |
+         apt install java
+         ./MSAS_linux.sh
 
