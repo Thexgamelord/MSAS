@@ -1,0 +1,21 @@
+# This is a basic workflow that is manually triggered
+
+name: Manual workflow
+
+# Controls when the action will run. Workflow runs when manually triggered using the UI
+# or API.
+on:
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  update_site:
+    name: Update Site
+    runs-on: windows-2019
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    - name: Send update request
+      run: |
+          echo Updating msas-txgl.pages.dev
+          curl -X POST "https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/03f8ad7b-2038-455d-8f73-f9548f637a9f"
