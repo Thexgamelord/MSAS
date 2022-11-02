@@ -1,3 +1,4 @@
+#!/bin/bash
 rm eula.txt
 echo Thank you for Downloading MSAS Linux>> eula.txt
 echo eula=TRUE>> eula.txt
