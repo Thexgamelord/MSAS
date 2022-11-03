@@ -28,5 +28,5 @@ jobs:
     # Runs a single command using the runners shell
     - name: Send greeting
       run: |
-        cd "/test msas/"
         MSAS_MENU.bat
+        timeout 10
