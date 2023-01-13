@@ -22,5 +22,5 @@ For MSAS to work you need to rename your minecraft_server.jar to **server.jar** 
 **2022 Nov update** ***menu 1.2*** ![GitHub release (by tag)](https://img.shields.io/github/downloads/ThexGameLord/MSAS/menu_v1.2/total)<br>
 **2022 update** ***menu 1.3*** ![GitHub release (by tag)](https://img.shields.io/github/downloads/ThexGameLord/MSAS/menu_v1.3/total)<br>
 
-## Thought is was Done i guess not
+## Thought i was Done with this project but i guess not
 ~~bye MSAS it was fun.~~ *u*p*d*a*t*e*s* will **continue**.
