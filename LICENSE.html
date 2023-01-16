@@ -3,17 +3,9 @@
 <title>MSAS License</title>
 </head>
 
-<iframe id="github-iframe" src="" style="position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"></iframe>
-
 <script>
-    fetch('https://raw.githubusercontent.com/ThexGameLord/MSAS/main/LICENSE')
-        .then(function(response) {
-            return response.json();
-        }).then(function(data) {
-            var iframe = document.getElementById('github-iframe');
-            iframe.src = 'data:text/html;base64,' + encodeURIComponent(data['content']);
-        });
+window.location = "https://raw.githubusercontent.com/ThexGameLord/MSAS/main/LICENSE"
 </script>
-<noscript>Your browser does not support JavaScript, therefore the license wont be displayed</noscript>
-    Your browser doesn't support iframes, therefore the license wont be displayed
+<noscript>Your browser does not support JavaScript, you wont be sent to license</noscript>
+    <a href="https://raw.githubusercontent.com/ThexGameLord/MSAS/main/LICENSE">License here if you were not sent<a>
 </html>
