@@ -4,8 +4,8 @@ function dllinux(){
 
 }
 function dlwinmenu(){
-    alert("Thank you for downloading MSAS Menu v1.3");
-    window.location.href = "https://github.com/ThexGameLord/MSAS/releases/download/menu_v1.3/MSAS_MENU_v1.3.bat";
+    alert("Thank you for downloading MSAS Menu v1.4");
+    window.location.href = "https://github.com/ThexGameLord/MSAS/releases/download/menu_v1.4/MSAS_MENU_v1.4.bat";
 }
 function dlwin(){
     alert("Thank you for downloading MSAS v1.0");
