@@ -24,6 +24,8 @@ For MSAS to work you need to rename your minecraft_server.jar to **server.jar** 
 **2023 update** ***menu 1.4*** ![GitHub release (by tag)](https://img.shields.io/github/downloads/ThexGameLord/MSAS/menu_v1.4/total)<br>
 **2023 update** ***menu 1.5*** ![GitHub release (by tag)](https://img.shields.io/github/downloads/ThexGameLord/MSAS/menu_v1.5/total)<br>
 
+**2023 release** ***Forms*** ![GitHub release (by tag)](https://img.shields.io/github/downloads/ThexGameLord/MSAS/form-1.0.0/total)<br>
+
 ## Windows Microsoft Defender
 
 <img src="https://github.com/ThexGameLord/MSAS/blob/main/images/MDSS.PNG?raw=true" alt="IMAGE_MSAS"></img><br>
