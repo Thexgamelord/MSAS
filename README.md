@@ -33,3 +33,17 @@ For MSAS to work you need to rename your minecraft_server.jar to **server.jar** 
 
 ## Thought i was Done with this project but i guess not
 ~~bye MSAS it was fun.~~ *u*p*d*a*t*e*s* will **continue**.
+
+> MSAS_MENU v1.0 for windows [here](https://github.com/ThexGameLord/MSAS/releases/tag/menu_v1.0)
+
+> MSAS_MENU v1.1 for windows [here](https://github.com/ThexGameLord/MSAS/releases/tag/menu_v1.1)
+
+>MSAS_MENU v1.2 for windows [here](https://github.com/ThexGameLord/MSAS/releases/tag/menu_v1.2)
+
+>MSAS_MENU v1.3 for windows [here](https://github.com/ThexGameLord/MSAS/releases/tag/menu_v1.3)
+
+>MSAS_MENU v1.4 for windows [here](https://github.com/ThexGameLord/MSAS/releases/tag/menu_v1.4)
+
+>MSAS_MENU v1.5 for windows [here](https://github.com/ThexGameLord/MSAS/releases/tag/menu_v1.5) currently last batch version of MSAS
+
+MSAS forms v1.0.0 for windows [here](https://github.com/ThexGameLord/MSAS/releases/tag/form-1.0.0)
